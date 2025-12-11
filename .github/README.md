@@ -8,4 +8,4 @@ New container builds for any given app are triggered by changes to the correspon
 
 See the [build workflow](https://github.com/yoshieralf/containers/blob/master/.github/workflows/build.yml) and [scripts](https://github.com/yoshieralf/containers/tree/master/.github/scripts) for implementation details.
 
-Fork of [Cycneuramus's Containers](https://github.com/cycneuramus/containers)
+Based on [Cycneuramus's Containers](https://github.com/cycneuramus/containers)
